@@ -1,0 +1,2 @@
+Saludo Inicial
+En este repositorio voy a alojar todo el codigo asociado conmi aprendizaje en Programación
